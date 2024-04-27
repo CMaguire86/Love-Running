@@ -185,7 +185,7 @@ main {
 #times h3 {
    /*ovveride the heading colour set in general styles*/
     color: #fafafa;
-}
+}    
 
 /*Gallery page*/
 #photos img {
@@ -196,7 +196,6 @@ main {
 #photos {
     line-height: 0;
 }
-
 
 /* Footer */
 #social-networks {
@@ -326,3 +325,4 @@ main {
         align-self: flex-end;
     }
 }
+
